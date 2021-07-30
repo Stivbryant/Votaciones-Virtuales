@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Arauz.png</file>
+        <file>icono.png</file>
+        <file>Lasso (2).png</file>
+    </qresource>
+</RCC>

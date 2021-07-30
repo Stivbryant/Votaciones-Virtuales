@@ -1,0 +1,14 @@
+release/certificado.o
+release/datoscertificado.o
+release/main.o
+release/ingreso.o
+release/resultados.o
+release/usuarios.o
+release/votacion.o
+release/qrc_Fotos.o
+release/moc_certificado.o
+release/moc_datoscertificado.o
+release/moc_ingreso.o
+release/moc_resultados.o
+release/moc_usuarios.o
+release/moc_votacion.o

@@ -1,0 +1,14 @@
+debug/certificado.o
+debug/datoscertificado.o
+debug/main.o
+debug/ingreso.o
+debug/resultados.o
+debug/usuarios.o
+debug/votacion.o
+debug/qrc_Fotos.o
+debug/moc_certificado.o
+debug/moc_datoscertificado.o
+debug/moc_ingreso.o
+debug/moc_resultados.o
+debug/moc_usuarios.o
+debug/moc_votacion.o
